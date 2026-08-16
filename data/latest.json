@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T18:19:19.047Z",
+  "timestamp": "2026-08-16T00:55:32.431Z",
   "profile": {
     "login": "buraksy",
     "name": "Burak",
@@ -19,7 +19,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/92798864?v=4",
         "html_url": "https://github.com/sserkanyilmaz",
         "type": "User",
-        "followed_at": "2026-08-15T18:19:19.044Z"
+        "followed_at": "2026-08-16T00:55:32.430Z"
       },
       {
         "id": 200215501,
@@ -27,7 +27,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/200215501?v=4",
         "html_url": "https://github.com/barangonul",
         "type": "User",
-        "followed_at": "2026-08-15T18:19:19.044Z"
+        "followed_at": "2026-08-16T00:55:32.430Z"
       },
       {
         "id": 236566673,
@@ -35,7 +35,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/236566673?v=4",
         "html_url": "https://github.com/UmutBektas1",
         "type": "User",
-        "followed_at": "2026-08-15T18:19:19.044Z"
+        "followed_at": "2026-08-16T00:55:32.430Z"
       },
       {
         "id": 272468290,
@@ -43,7 +43,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/272468290?v=4",
         "html_url": "https://github.com/SerhatYoldoruk",
         "type": "User",
-        "followed_at": "2026-08-15T18:19:19.044Z"
+        "followed_at": "2026-08-16T00:55:32.430Z"
       }
     ]
   },
