@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": "2026-08-23T00:55:54.439Z",
+    "profile": {
+      "login": "buraksy",
+      "name": "Burak",
+      "bio": null,
+      "public_repos": 8,
+      "followers_count": 4,
+      "following_count": 2,
+      "created_at": "2020-05-14T23:21:51Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65374437?v=4"
+    },
+    "followers": {
+      "count": 4,
+      "list": [
+        {
+          "id": 92798864,
+          "login": "sserkanyilmaz",
+          "avatar_url": "https://avatars.githubusercontent.com/u/92798864?v=4",
+          "html_url": "https://github.com/sserkanyilmaz",
+          "type": "User",
+          "followed_at": "2026-08-23T00:55:54.439Z"
+        },
+        {
+          "id": 200215501,
+          "login": "barangonul",
+          "avatar_url": "https://avatars.githubusercontent.com/u/200215501?v=4",
+          "html_url": "https://github.com/barangonul",
+          "type": "User",
+          "followed_at": "2026-08-23T00:55:54.439Z"
+        },
+        {
+          "id": 236566673,
+          "login": "UmutBektas1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/236566673?v=4",
+          "html_url": "https://github.com/UmutBektas1",
+          "type": "User",
+          "followed_at": "2026-08-23T00:55:54.439Z"
+        },
+        {
+          "id": 272468290,
+          "login": "SerhatYoldoruk",
+          "avatar_url": "https://avatars.githubusercontent.com/u/272468290?v=4",
+          "html_url": "https://github.com/SerhatYoldoruk",
+          "type": "User",
+          "followed_at": "2026-08-23T00:55:54.439Z"
+        }
+      ]
+    },
+    "changes": {
+      "new_followers": [],
+      "unfollowers": []
+    },
+    "traffic": null
+  },
+  {
     "timestamp": "2026-08-22T18:19:37.235Z",
     "profile": {
       "login": "buraksy",
